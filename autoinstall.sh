@@ -42,6 +42,7 @@ brew cask install slack
 brew cask install kobito
 brew cask install skype
 brew cask install android-studio
-brew cask install rubymine
+brew cask install rubymine 
+brew cask install the-unarchiver
 
 clean
