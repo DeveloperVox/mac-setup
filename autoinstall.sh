@@ -23,7 +23,9 @@ brew install readline
 # rbenvのインストール
 # TODO:
 
+
 # cask install
+brew cask install java
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-japanese-ime
