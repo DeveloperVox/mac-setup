@@ -18,10 +18,10 @@ brew install heroku-toolbelt
 brew install readline
 
 # zshのインストール
-# TODO: 
+brew install zsh
 
 # rbenvのインストール
-# TODO:
+brew install rbenv
 
 # cask install
 brew cask install google-chrome
