@@ -23,7 +23,9 @@ brew install zsh
 # rbenvのインストール
 brew install rbenv
 
+
 # cask install
+brew cask install java
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-japanese-ime
@@ -42,6 +44,7 @@ brew cask install slack
 brew cask install kobito
 brew cask install skype
 brew cask install android-studio
-brew cask install rubymine
+brew cask install rubymine 
+brew cask install the-unarchiver
 
 clean
