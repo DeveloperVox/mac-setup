@@ -46,5 +46,7 @@ brew cask install skype
 brew cask install android-studio
 brew cask install rubymine 
 brew cask install the-unarchiver
+brew cask install sketch
+brew cask install sketch-tool
 
 clean
